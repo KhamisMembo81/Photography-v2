@@ -42,6 +42,12 @@ body{
   justify-content: center;
   flex-direction: column;
 }
+#photoexample img {
+  transition: transform 0.3s ease;
+}
+#photoexample img:hover {
+  transform: scale(1.1);
+}
 h2{
   text-decoration: underline;
 }
