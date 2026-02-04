@@ -19,8 +19,8 @@ button{
   font-family: Arial, sans-serif; 
   }
 img{
-  border: 30%;
-  border-color: black;
+  border-radius: 10px;
+  border: 2px solid black;
 }
 
 h1{
