@@ -2,6 +2,9 @@
 
 A web-based application that generates traditional Akan names based on the day of the week you were born and your gender.
 
+# Visit Live link
+https://khamismembo81.github.io/Photography-v2/
+
 ## About MonoFrame
 
 MonoFrame is a website that uploads photographs which are black and white themed. These photographs are taken from aesthetic locations such as beaches, forests and mountains.
